@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MwikaliDee
-- 👀 I’m interested in Data Analytics, R, SQL, Python
-- 🌱 I’m currently learning Datta Analysis with SQL, R and Python
+- 👀 I’m interested in Data Analytics and Data Science, R, SQL, Python
+- 🌱 I’m currently learning Machine Learning and Data Science and Engineering with SQL, R and Python
 - 💞️ I’m looking to collaborate on any projects that give me the opportunity to grow my skills and learn
 - 📫 How to reach me mwikalidorine@outlook.com +254711587273
 
